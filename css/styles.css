@@ -545,7 +545,7 @@ b {
 
 .overlay {
   position: absolute;
-  top: -1px;
+  top: 0;
   width: 100%;
   height: 100%;
   background-color: rgba(33, 150, 243, 0.9);
